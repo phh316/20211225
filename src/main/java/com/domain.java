@@ -13,6 +13,6 @@ public class domain {
     }
     @Test(priority = 1)
     public void test002(){
-        System.out.println("22222222666");
+        System.out.println("啊哈哈哈");
     }
 }
