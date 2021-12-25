@@ -9,7 +9,7 @@ public class domain {
 
     @Test(priority = 0)
     public void test001(){
-        System.out.println("1111111111");
+        System.out.println("11111111114444");
     }
     @Test(priority = 1)
     public void test002(){
