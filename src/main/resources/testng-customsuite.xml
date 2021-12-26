@@ -6,9 +6,9 @@
       <class name="com.domain"/>
     </classes>
   </test>
-  <listeners>
-    <!--testng的XML配置文件中添加这些内容-->
-    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
-    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
-  </listeners>
+  <!--<listeners>-->
+    <!--&lt;!&ndash;testng的XML配置文件中添加这些内容&ndash;&gt;-->
+    <!--<listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+    <!--<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>-->
+  <!--</listeners>-->
 </suite>
