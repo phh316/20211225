@@ -14,7 +14,17 @@
             <artifactId>testng</artifactId>
             <version>6.1.1</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.uncommons</groupId>
+            <artifactId>reportng</artifactId>
+            <version>1.1.4</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>4.2.2</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
